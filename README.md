@@ -1,2 +1,2 @@
 # projeto-insta
- Projeto onde recriei a página de login do instagram
+ Projeto onde recriei a página de login do instagram utilizando os conhecimentos adiquiridos através do bootcamp "HTML Web Developer" (https://web.dio.me/track/html-web-developer) da plataforma "Digital innovation one" (https://www.dio.me/).
